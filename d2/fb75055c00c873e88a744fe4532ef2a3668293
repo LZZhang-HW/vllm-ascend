@@ -1,0 +1,43 @@
+tests/ut/core/test_native_hybrid_hisparse_layout.py
+  s_db502d23dd28d1::t_d80e4608d809b3 31,34-37,96,118,148,193-197,199-201,203,217,226
+  s_db502d23dd28d1::t_2f777b01cf5d2f 198
+tests/ut/distributed/kv_transfer/test_flash_hisparse_compat.py
+  s_db502d23dd28d1::t_d80e4608d809b3 14
+  s_db502d23dd28d1::t_3b4e27ca5ceb2e 17
+docs/source/user_guide/feature_guide/hisparse.md
+  s_db502d23dd28d1::t_d80e4608d809b3 91-92
+  s_db502d23dd28d1::t_f537b3fdd20c7f 34
+vllm_ascend/core/kv_cache_config_builder.py
+  s_db502d23dd28d1::t_d80e4608d809b3 52,165
+release_notes/fragments/23142.yaml
+  s_db502d23dd28d1::t_3b4e27ca5ceb2e 4
+vllm_ascend/hisparse/layout.py
+  s_db502d23dd28d1::t_d80e4608d809b3 28,69
+vllm_ascend/worker/v2/attn_utils.py
+  s_db502d23dd28d1::t_3b4e27ca5ceb2e 206-212,327
+  s_db502d23dd28d1::t_d80e4608d809b3 101-106
+vllm_ascend/patch/platform/__init__.py
+  s_db502d23dd28d1::t_d80e4608d809b3 27,31
+tests/ut/models/test_glm5next_cache_config.py
+  s_db502d23dd28d1::t_2f777b01cf5d2f 161,163-167,171,199
+vllm_ascend/hisparse/__init__.py
+  s_db502d23dd28d1::t_2f777b01cf5d2f 16
+  s_db502d23dd28d1::t_d80e4608d809b3 5-6,14-15,17-25
+  s_db502d23dd28d1::t_d9b5a455dc2f97 26-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d2fb75055c00c873e88a744fe4532ef2a3668293",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
