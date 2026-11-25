@@ -1,0 +1,51 @@
+tests/ut/worker/test_v2_dummy_padding.py
+  s_db502d23dd28d1::t_0b25c5ca77bb55 50
+tests/ut/distributed/expert_transfer/test_v2_hooks.py
+  s_db502d23dd28d1::t_ff90bdf35504e7 89
+csrc/attention/hisparse_resolve_residency/op_kernel/hisparse_resolver_kernel.h
+  s_db502d23dd28d1::t_d8a085ea51e39f 204-208
+docs/source/user_guide/feature_guide/hisparse.md
+  s_db502d23dd28d1::t_9767fc485645d6 101-102,118
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_gdn_prepare.py
+  s_db502d23dd28d1::t_cf266bf447f5f4 5,31-117,309-363
+tests/ut/distributed/kv_transfer/test_flash_hisparse_compat.py
+  s_db502d23dd28d1::t_56a096a4832ebd 99-156
+tests/ut/distributed/kv_transfer/test_hisparse_foundation_cpu.py
+  s_db502d23dd28d1::t_0685ed9c5a207d 10,12,35,55-90,125-267,730,757
+tests/ut/worker/test_attn_utils_v2.py
+  s_db502d23dd28d1::t_b6d740f6c665f8 4,2305-2358
+vllm_ascend/attention/gdn_attn_builder.py
+  s_db502d23dd28d1::t_a81359be76170c 43,1180-1181,1242,1278-1303,1363,1365-1366,1400-1440
+vllm_ascend/attention/sfa_hisparse.py
+  s_db502d23dd28d1::t_c46dd3c38f2107 11,39-53,676-782,817-818,820,854-859,870-874
+vllm_ascend/hisparse/__init__.py
+  s_db502d23dd28d1::t_7591da33b84a31 11-12
+vllm_ascend/hisparse/host_mirror.py
+  s_db502d23dd28d1::t_a74c13ddc561f1 7-9,12-13,136-167,171-182,187-188,191,213-214,217-219,228-261,342,378-396
+vllm_ascend/ops/triton/docs/gdn_prepare.md
+  s_db502d23dd28d1::t_4abcd286cb51ed 21-25
+vllm_ascend/ops/triton/mamba/gdn_prepare.py
+  s_db502d23dd28d1::t_dcc48a8247f5ae 5,9,30,35,50,60-73,135-194,227,239-240,260-261,281-297
+vllm_ascend/worker/v2/aclgraph_utils.py
+  s_db502d23dd28d1::t_6f7203c5bd8e36 120,127-147
+vllm_ascend/worker/v2/attn_utils.py
+  s_db502d23dd28d1::t_a97d9382850825 75,102,538-547,691-727,734-735
+vllm_ascend/worker/v2/model_runner.py
+  s_db502d23dd28d1::t_439306f0bc2b39 790-805,822-823
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e87d00b383ce81151bd602e4ee56a88bb77d5d04",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
