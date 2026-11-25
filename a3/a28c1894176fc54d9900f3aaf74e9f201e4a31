@@ -1,0 +1,23 @@
+tests/ut/patch/platform/test_patch_mamba_block_aligned_split.py
+  s_db502d23dd28d1::t_81c42124a913d9 22-23,138-142,144-161
+tests/ut/worker/test_attn_utils_v2.py
+  s_db502d23dd28d1::t_81c42124a913d9 30,2305-2308
+vllm_ascend/patch/platform/patch_mamba_block_aligned_split.py
+  s_db502d23dd28d1::t_81c42124a913d9 42,104,106,113,131-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a3a28c1894176fc54d9900f3aaf74e9f201e4a31",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
