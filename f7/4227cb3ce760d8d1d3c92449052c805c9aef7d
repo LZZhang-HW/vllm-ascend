@@ -1,0 +1,32 @@
+vllm_ascend/hisparse/binding.py
+  s_c2361398bffce7::t_0c25cc4e17db98 20,26,282-285
+  s_c2361398bffce7::t_5bd83c725352cb 286
+vllm_ascend/hisparse/__init__.py
+  s_c2361398bffce7::t_0c25cc4e17db98 9,36,41-42,48-59
+vllm_ascend/attention/indexer_kpool.py
+  s_c2361398bffce7::t_0c25cc4e17db98 1212-1219,1227
+vllm_ascend/worker/v2/attn_utils.py
+  s_c2361398bffce7::t_0c25cc4e17db98 207-208
+vllm_ascend/core/kv_cache_config_builder.py
+  s_c2361398bffce7::t_0c25cc4e17db98 97,104-107,111-113,133-135,153,189-190,305,307-309
+tests/ut/distributed/kv_transfer/test_hisparse_foundation_cpu.py
+  s_c2361398bffce7::t_5bd83c725352cb 53,55-69,72-74,76,79-86,90
+tests/ut/worker/test_glm5next_pooled_cache.py
+  s_c2361398bffce7::t_5bd83c725352cb 310-339
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f74227cb3ce760d8d1d3c92449052c805c9aef7d",
+  "prompts": {},
+  "sessions": {
+    "s_c2361398bffce7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a203e1-1ffc-7151-a2be-b5b3ea3fa51e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
