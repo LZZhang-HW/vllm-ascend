@@ -1,0 +1,22 @@
+tests/ut/ops/test_cann_keypool_adapters.py
+  s_c2361398bffce7::t_514fce12990c34 20-42
+vllm_ascend/attention/indexer_kpool.py
+  s_c2361398bffce7::t_514fce12990c34 826-838
+  s_c2361398bffce7::t_5999d747a2b37a 839-846,1239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3448a6d09bc3316dafb89943b4b0182c37eb56ee",
+  "prompts": {},
+  "sessions": {
+    "s_c2361398bffce7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a203e1-1ffc-7151-a2be-b5b3ea3fa51e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
