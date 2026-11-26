@@ -1,0 +1,29 @@
+docs/source/user_guide/feature_guide/hisparse.md
+  s_db502d23dd28d1::t_792e37c98a324e 37,117
+  s_db502d23dd28d1::t_b3626a516e3606 34
+tests/ut/core/test_native_hybrid_hisparse_layout.py
+  s_db502d23dd28d1::t_838de2e25ed1e1 9-10
+tests/ut/distributed/kv_transfer/test_flash_hisparse_compat.py
+  s_db502d23dd28d1::t_792e37c98a324e 21-27,29,38,42,46
+  s_db502d23dd28d1::t_b3626a516e3606 39-41
+tests/ut/distributed/kv_transfer/test_hisparse_pcp_cpu.py
+  s_db502d23dd28d1::t_792e37c98a324e 401,407,440
+vllm_ascend/patch/platform/patch_flash_hisparse.py
+  s_db502d23dd28d1::t_792e37c98a324e 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d31dce8974202c7eac29f27ea150d51cb8a76a06",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}

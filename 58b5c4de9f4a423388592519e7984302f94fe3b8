@@ -1,0 +1,25 @@
+tests/ut/models/test_qwen4_exp_cache_config.py
+  s_db502d23dd28d1::t_37abece97c8409 823-827
+tests/ut/worker/test_v2_dummy_padding.py
+  s_db502d23dd28d1::t_0b25c5ca77bb55 50
+tests/ut/patch/platform/test_patch_kv_cache_coordinator.py
+  s_db502d23dd28d1::t_37abece97c8409 295
+tests/ut/distributed/expert_transfer/test_v2_hooks.py
+  s_db502d23dd28d1::t_ff90bdf35504e7 89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "58b5c4de9f4a423388592519e7984302f94fe3b8",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+vllm_ascend/hisparse/host_mirror.py
+  s_db502d23dd28d1::t_d11fa6c5c0288b 164
+vllm_ascend/ops/triton/mamba/gdn_prepare.py
+  s_db502d23dd28d1::t_d11fa6c5c0288b 143-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "201675ebe6e051feb0fc1ccd87bc9ba14588f8fc",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
