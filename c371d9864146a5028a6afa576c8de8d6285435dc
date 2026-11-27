@@ -1,0 +1,14 @@
+vllm_ascend/patch/platform/__init__.py
+  h_907d6dcf3dc57f 29,31-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c371d9864146a5028a6afa576c8de8d6285435dc",
+  "prompts": {},
+  "humans": {
+    "h_907d6dcf3dc57f": {
+      "author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}

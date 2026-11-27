@@ -1,0 +1,23 @@
+vllm_ascend/hisparse/cache_ops.py
+  s_c2361398bffce7::t_e99984d79949ff 392-393,411-413,417-418,441
+tests/ut/distributed/kv_transfer/test_hisparse_foundation_cpu.py
+  s_c2361398bffce7::t_e99984d79949ff 10,55-92,178,180-182,184,190-191,194-196,201,207-208,213-214,220,237,240,242,281-283
+vllm_ascend/attention/sfa_hisparse.py
+  s_c2361398bffce7::t_e99984d79949ff 701,738
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9fd0ab238e1b229ad3a06bdc5e3a3696a080824f",
+  "prompts": {},
+  "sessions": {
+    "s_c2361398bffce7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a203e1-1ffc-7151-a2be-b5b3ea3fa51e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}

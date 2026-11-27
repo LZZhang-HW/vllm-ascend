@@ -1,0 +1,23 @@
+csrc/attention/hisparse_resolve_residency/op_kernel/arch22/hisparse_resolver_kernel.h
+  s_c2361398bffce7::t_897beaa4d0423f 16-17,25-29,68-71,74,76,137,147,150,185,187-188,196,203,220,223-233,318,433,463-464,467,470,477-478,484,486-487,509,545,577,626-627
+csrc/attention/hisparse_resolve_residency/op_kernel/resolver_scratch.h
+  s_c2361398bffce7::t_b9908e7bab2ec3 44-46,53-60,63-67,70-95,97
+tests/e2e/nightly/single_node/ops/singlecard_ops/test_hisparse_resolve_residency.py
+  s_c2361398bffce7::t_70c116215b8d9a 21,24-25,32,276-277,318,357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "543621ee442fd592c60f489ee2b8af4423924103",
+  "prompts": {},
+  "sessions": {
+    "s_c2361398bffce7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a203e1-1ffc-7151-a2be-b5b3ea3fa51e",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
