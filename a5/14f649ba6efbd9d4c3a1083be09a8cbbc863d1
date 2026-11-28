@@ -1,0 +1,27 @@
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_gdn_prepare.py
+  s_db502d23dd28d1::t_eb6e87f879c558 311-312,320,349
+vllm_ascend/attention/gdn_attn_builder.py
+  s_db502d23dd28d1::t_6d65ec2232f046 1667-1668,1671-1672,1789,1844,1847
+vllm_ascend/ops/triton/mamba/gdn_prepare.py
+  s_db502d23dd28d1::t_1539fcbdfdd146 41,83,144,151-152,231,275
+vllm_ascend/worker/v2/attn_utils.py
+  s_db502d23dd28d1::t_754087537351e5 440,727-729
+vllm_ascend/worker/v2/model_states/mamba_hybrid.py
+  s_db502d23dd28d1::t_c31386076950bc 594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a514f649ba6efbd9d4c3a1083be09a8cbbc863d1",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
