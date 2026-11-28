@@ -1,0 +1,14 @@
+release_notes/fragments/23689.yaml
+  h_907d6dcf3dc57f 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e48dfb7aba3ec12741c38c92ed8ae3295ae15ced",
+  "prompts": {},
+  "humans": {
+    "h_907d6dcf3dc57f": {
+      "author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
