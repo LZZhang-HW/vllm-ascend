@@ -1,0 +1,19 @@
+tests/e2e/nightly/single_node/ops/singlecard_ops/triton/test_gdn_prepare.py
+  s_db502d23dd28d1::t_ab7ae2bdc6691b 5,356-360
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "448c6cbaba1b6f687e968734982302525344ffea",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
