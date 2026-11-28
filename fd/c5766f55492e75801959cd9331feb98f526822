@@ -1,0 +1,33 @@
+docs/source/tutorials/models/GLM5.3-Flash.md
+  s_db502d23dd28d1::t_91e8ec8e596796 2112-2119
+tests/ut/worker/v2/test_aclgraph.py
+  s_db502d23dd28d1::t_2a557d808d820d 14-15,555-610
+vllm_ascend/attention/sfa_hisparse.py
+  s_db502d23dd28d1::t_1b08b18486dba9 30-35,699-732,893-901
+vllm_ascend/hisparse/__init__.py
+  s_db502d23dd28d1::t_1eaa86d4c39ede 5,14-16
+vllm_ascend/worker/v2/aclgraph_utils.py
+  s_db502d23dd28d1::t_c84f7bc1a1c69f 50,94-97,126-127,134-170,181-189,204-205,303,311-312,318-331
+vllm_ascend/worker/v2/input_batch.py
+  s_db502d23dd28d1::t_d361bd504f379d 81
+vllm_ascend/worker/v2/model_runner.py
+  s_db502d23dd28d1::t_c11cb2ac48de95 107,136,838,951-967,1259
+vllm_ascend/worker/worker.py
+  s_db502d23dd28d1::t_6a631a00c16c20 452-456
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fdc5766f55492e75801959cd9331feb98f526822",
+  "prompts": {},
+  "sessions": {
+    "s_db502d23dd28d1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f41c-c188-7390-8a31-ce4a30949f1c",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "nlf02300129 <nlf02300129@antgroup.com>"
+    }
+  }
+}
